@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestTriangleNumberCalculator" tests="13" skipped="0" failures="0" errors="0" timestamp="2024-10-19T19:34:29" hostname="KYLESPC" time="0.02">
+  <properties/>
+  <testcase name="testValueOf0()" classname="com.csc.TestTriangleNumberCalculator" time="0.01"/>
+  <testcase name="testValueOf1()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testValueOf5()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testAdd1And1()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testAdd2And3()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testAdd4And2()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testValueOf10()" classname="com.csc.TestTriangleNumberCalculator" time="0.001"/>
+  <testcase name="testValueOf15()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testValueOf30()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testValueOf60()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testSubtract1And1()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testSubtract2And3()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <testcase name="testSubtract4And2()" classname="com.csc.TestTriangleNumberCalculator" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
