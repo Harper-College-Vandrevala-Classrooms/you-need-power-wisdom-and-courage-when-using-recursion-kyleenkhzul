@@ -33,6 +33,30 @@ public class TriangleNumberCalculator {
   public int subtract(int n, int m) {
     return (value(n) - value(m));
   }
+
+  /*
+     * This function multiplies two nth triangular numbers
+     * @param n, first nth triangular number
+     * @param m, second nth triangular number
+     * @return, product of triangular numbers
+     */
+    public int multiply(int n, int m) {
+      return value(n) * value(m);
+  }
+
+  /*
+   * This function divides two nth triangular numbers
+   * @param n, first nth triangular number
+   * @param m, second nth triangular number
+   * @return, quotient of triangular numbers as a double
+   */
+  public double divide(int n, int m) {
+      int denominator = value(m);
+      if (denominator == 0) {
+          throw new ArithmeticException("Division by zero is not allowed.");
+      }
+      return (double) value(n) / denominator;
+  }
 }
 
 
